@@ -1,30 +1,28 @@
 **<h1 align="center"><b>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ⚡</b></h1>**
 <p align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILES+STREAM+BOT+!;CREATED+BY+TECHNICAL+RAVI+KOHLI!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
-</p>
 
  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/angel-loveyou/WD_Filestreambot)
 
-  <a href="https://t.me/movie_a1">
-    <img src="https://te.legra.ph/file/761c78ced1b158a8f9440.jpg">
+  <a href="https://t.me/Opleech">
+    <img src="https://te.legra.ph/file/08f1061f32fc52b45a722.jpg">
   </a>
   <p align="center">
     𝙸 𝙲𝙰𝙽 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴 𝙳𝙸𝚁𝙴𝙲𝚃 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾/𝙵𝙸𝙻𝙴𝚂 𝙵𝙾𝚁 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙾𝙽𝙻𝙸𝙽𝙴 & 𝙵𝙾𝚁 𝚂𝚃𝚁𝙴𝙰𝙼𝙸𝙽𝙶...
     <br />
-    <a href="http://t.me/Files_to_links_V2_bot"><strong>𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃 »</strong></a>
+    <a href="https://t.me/WD_File_To_Link_bot"><strong>𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃 »</strong></a>
     <br />
   </p>
   <p align="center">
-  <a href="https://t.me/movie_a1">
+  <a href="[https://t.me/Opleech)">
         <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
   </p>
 <hr>
   
 ## About This Bot
 
-<b><a href="https://www.github.com/Dkmovie" title="Follow">Follow Me For Updates</a></b>
+<b><a href="https://github.com/angel-loveyou" title="Follow">Follow Me For Updates</a></b>
 
 ## Up to 4GB files Supported ♥️
 
@@ -167,11 +165,7 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Adarsh Goel_(me)](https://github.com/adarsh-goel)
-- [DeekshithSH](https://github.com/DeekshithSH) 
-- <b>⍣ [ᴀᴀᴅʜɪ](https://GitHub.com/Aadhi000)</b>
-- <b>⍣ [KWIC](https://GitHub.com/KWICBOTS)</b>
+- [WOODcraft](https://t.me/Opleech) 
 - Everyone In This Journey !
-
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [RAVI](https://t.me/R_KOHLI) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/) | [ɢɪᴛʜᴜʙ](https://GitHub.com/Dkmovie)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [CHANNLS ](https://t.me/movie_a)</b>
+                       
+<b>ᴄʜᴀɴɴᴇʟ ›› [CHANNLS ](https://t.me/Opleech)</b>
