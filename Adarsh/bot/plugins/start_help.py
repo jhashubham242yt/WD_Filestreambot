@@ -60,9 +60,9 @@ async def start(b, m):
             caption="**ʜᴇʟʟᴏ...❣️\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("𝐖𝐃 𝐒𝐭𝐫𝐢𝐧𝐠 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐨𝐫 𝐁𝐨𝐭 ❣️", url="https://t.me/StringGenerator_V2_Bot"), InlineKeyboardButton("𝙲hannels 🥀", url="https://t.me/Opleech")],
-                    [InlineKeyboardButton("🌹 TG Manager bot", url="https://t.me/TG_Manager_Robot_bot"), InlineKeyboardButton("💎 Bypass bot", url="https://t.me/SED_Link_Bypasser_bot")],
-                    [InlineKeyboardButton("🥀 Group 🥀", url="https://t.me/WOODcraft_Mirror_Topic")]
+                    [InlineKeyboardButton("WD-Rules ❣️", url="https://t.me/WOODcraft_Mirror_Zone"), InlineKeyboardButton("𝙲hannels 🥀", url="https://t.me/Opleech")],
+                    [InlineKeyboardButton("𝐖𝐃 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐞𝐬", url="https://t.me/WD_Creatives"), InlineKeyboardButton("💎 Bypass bot", url="https://t.me/OpLink_bypass_bot")],
+                    [InlineKeyboardButton("🥀 Group 🥀", url="https://t.me/WD_Topic_Group")]
                 ]
             ),
             
@@ -178,9 +178,9 @@ async def help_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("𝐖𝐃 𝐒𝐭𝐫𝐢𝐧𝐠 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐨𝐫 𝐁𝐨𝐭 ❣️", url="https://t.me/StringGenerator_V2_Bot"), InlineKeyboardButton("𝙲hannels 🥀", url="https://t.me/Opleech")],
-                [InlineKeyboardButton("🌹 TG Manager bot", url="https://t.me/TG_Manager_Robot_bot"), InlineKeyboardButton("💎 Bypass bot", url="https://t.me/SED_Link_Bypasser_bot")],
-                [InlineKeyboardButton("🥀 Group 🥀", url="https://t.me/WOODcraft_Mirror_Topic")]
+                [InlineKeyboardButton("WD-Rules ❣️", url="https://t.me/WOODcraft_Mirror_Zone"), InlineKeyboardButton("𝙲hannels 🥀", url="https://t.me/Opleech")],
+                [InlineKeyboardButton("𝐖𝐃 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐞𝐬", url="https://t.me/WD_Creatives"), InlineKeyboardButton("💎 Bypass bot", url="https://t.me/OpLink_bypass_bot")],
+                [InlineKeyboardButton("🥀 Group 🥀", url="https://t.me/WD_Topic_Group")]
             ]
         )
     )
@@ -230,22 +230,22 @@ async def about_handler(bot, message):
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
-┣⪼<b>StringGenerator : <a href='https://t.me/https://t.me/StringGenerator_V2_Bot'>ʙʟᴀᴄᴋ ᴀᴅᴀᴍ</a></b>
+┣⪼<b>WD-Rules ❣️ : <a href='https://t.me/WOODcraft_Mirror_Zone'>Rules</a></b>
 ┣⪼<b>ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/Farooq_is_KING'>WOODcraft</a></b>
-┣⪼<b>Bypass bot : <a href='https://t.me/SED_Link_Bypasser_bot'>Bypasser ʙᴏᴛ</a></b>
+┣⪼<b>Bypass bot : <a href='https://t.me/OpLink_bypass_bot'>Bypasser ʙᴏᴛ</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
 ┣⪼<b>SED-ᴄᴏᴅᴇ : <a href='https://t.me/Opleech'>Mirror Zone</a></b>
-┣⪼<b>𝙶𝚛𝚘𝚞𝚙 : <a href='https://t.me/WOODcraft_Mirror_Topic'>Topic</a></b>
+┣⪼<b>𝙶𝚛𝚘𝚞𝚙 : <a href='https://t.me/WD_Topic_Group'>Topic</a></b>
 ┃
 <b>╰━━━━━━━〔Sed sᴜᴘᴘᴏʀᴛ〕</b>""",
   
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("𝙶𝚁𝙾𝚄𝙿 ⚡", url="https://t.me/WOODcraft_Mirror_Topic"), InlineKeyboardButton("🌹 TG Manager bot", url="https://t.me/TG_Manager_Robot_bot")],
-                [InlineKeyboardButton("💎 Bypass bot", url="https://t.me/SED_Link_Bypasser_bot")]
+                [InlineKeyboardButton("𝙶𝚁𝙾𝚄𝙿 ⚡", url="https://t.me/WD_Topic_Group"), InlineKeyboardButton("🌹 𝐖𝐃 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐞𝐬", url="https://t.me/WD_Creatives")],
+                [InlineKeyboardButton("💎 Bypass bot", url="https://t.me/OpLink_bypass_bot")]
             ]
         )
     )
