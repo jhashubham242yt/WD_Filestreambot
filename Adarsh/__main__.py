@@ -76,7 +76,7 @@ async def start_services():
     if Var.ON_HEROKU:
         print('                        app runnng on =>> {}'.format(Var.FQDN))
     print('---------------------------------------------------------------------------------------------------------')
-    print('Give a lick to my bot https://t.me/WD_Filestream_bot  also follow me for new bots')
+    print('Give a lick to my bot https://t.me/TG_Files_Link_v1_bot  also follow me for new bots')
     print('---------------------------------------------------------------------------------------------------------')
     await idle()
 
