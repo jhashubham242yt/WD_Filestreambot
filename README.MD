@@ -3,7 +3,7 @@
 
 
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/angel-loveyou/WD_Filestreambot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lo-pro-file/WD_Filestreambot)
 
   <a href="https://t.me/Opleech">
     <img src="https://te.legra.ph/file/08f1061f32fc52b45a722.jpg">
