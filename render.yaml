@@ -4,7 +4,7 @@ services:
     name: shubham
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: bash bash.sh 
+    startCommand: python3 -m Adarsh
     repo: https://github.com/jhashubham242yt/WD_Filestreambot.git      
     branch: main
     envVars:
